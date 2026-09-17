@@ -17,7 +17,7 @@ Isso deixou um vácuo: milhões de pessoas perderam, de uma hora para outra, a f
 
 ## Solução
 
-O **Take One** é um MVP web (não um app) que recria, de forma enxuta, o núcleo do que o TV Time oferecia:
+O **Take One** é um MVP web que recria o núcleo do que o TV Time oferecia:
 
 - descoberta de séries populares/em alta a partir de dados reais (API pública, sem necessidade de conta ou chave de acesso);
 - página de detalhe de cada série com sinopse, gêneros e nota;
