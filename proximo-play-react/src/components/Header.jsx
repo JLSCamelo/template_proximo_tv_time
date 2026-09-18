@@ -10,7 +10,7 @@ export default function Header() {
   return (
     <header className="cabecalho container">
       <Link className="logo" to="/">
-        próximoplay
+        takeone
       </Link>
       <nav aria-label="Navegação principal">
         <details className="perfil">
