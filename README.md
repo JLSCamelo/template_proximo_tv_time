@@ -1,4 +1,4 @@
-# Próximo Play
+# Take One
 
 Catálogo de séries construído com React + Vite, consumindo dados em tempo real da API pública do [TVmaze](https://www.tvmaze.com/api).
 
@@ -15,7 +15,7 @@ Isso deixou um vácuo: milhões de pessoas perderam, de uma hora para outra, a f
 
 ## Solução
 
-O **Próximo Play** é um MVP web que recria o núcleo do que o TV Time oferecia:
+O **Take One** é um MVP web que recria o núcleo do que o TV Time oferecia:
 
 - descoberta de séries populares/em alta a partir de dados reais (API pública, sem necessidade de conta ou chave de acesso);
 - página de detalhe de cada série com sinopse, gêneros e nota;
