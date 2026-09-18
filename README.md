@@ -80,10 +80,6 @@ Tema escuro com um único tom de destaque, trocado do turquesa original por um c
 
 ## Referências e inspiração de layout
 
-O layout não copia um único site, mas a estrutura do cabeçalho e das grades de conteúdo se aproxima do padrão usado pelo **Netflix**:
-
-- Cabeçalho com logo à esquerda, navegação central, busca, sino de notificações e avatar de perfil (com seta de dropdown) à direita — mesma organização do cabeçalho autenticado do Netflix.
-- Conteúdo dividido em seções horizontais por categoria ("Populares", "Em alta", "Em destaque"), cada uma com um link para ver a lista completa — mesmo padrão de "fileiras por categoria" do catálogo do Netflix.
-- Pôsteres em proporção retrato (2:3) organizados em grade densa.
+O layout se inspira em um site de streaming, o Serializd, usamos os elementos, a forma de organização e a otimização que esse site oferece
 
 A funcionalidade central — registrar episódios assistidos por temporada/episódio — é a referência direta ao **TV Time**, cuja ausência motivou este projeto (ver seção "Problema").
